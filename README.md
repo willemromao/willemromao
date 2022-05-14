@@ -1,6 +1,6 @@
 ### I'm Willem 😉
 
-- 👨‍💻 I'm currently on my way to becoming a Back-end Developer with Java.
+- 👨‍💻 Focus on Back-end Back-end with Java.
 - 🎮 My hobbies are running and building Rubik's Cube
 
 <div style="display: inline_block"><br>
