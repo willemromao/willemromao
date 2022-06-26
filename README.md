@@ -1,15 +1,18 @@
 ### I'm Willem 😉
 
-- 🎯 Focus on Back-end with Java.
-- 🎮 My hobbies are running and building Rubik's Cube
+- 👨‍💻 Working with Kotlin and Dart
+- 🎮 My hobbies are running, calisthenics and Wim Hof method
 
 ##
 
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Willem-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Willem-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Willem-Koltin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Willem-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Willem-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Willem-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  
   
 ##
   
