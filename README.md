@@ -1,6 +1,7 @@
 ### I'm Willem 😉
 
 - 👨‍💻 Working with Kotlin and Dart
+- 🧠 Goal: AI Engineer
 - 🎮 My hobbies are running, calisthenics and Wim Hof method
 
 ##
