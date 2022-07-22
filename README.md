@@ -1,6 +1,6 @@
 ### I'm Willem 😉
 
-- 👨‍💻 Working with Kotlin and Dart
+- 👨‍💻 Working with Kotlin in the back-end
 - 🧠 Goal: AI Engineer
 - 🎮 My hobbies are running and Wim Hof method
 
@@ -10,15 +10,13 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Willem-Koltin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Willem-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Willem-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Willem-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   
   
 ##
   
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willemromao&layout=compact&langs_count=7&theme=dark"/>
-
+  
   
 ##
   
