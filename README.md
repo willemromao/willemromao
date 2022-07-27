@@ -5,18 +5,15 @@
 - 🎮 My hobbies are running and Wim Hof method
 
 ##
+  
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willemromao&layout=compact&langs_count=7&theme=dark"/>
+
 
 ### Technologies:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Willem-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Willem-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  
-  
-##
-  
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willemromao&layout=compact&langs_count=7&theme=dark"/>
-  
   
 ##
   
