@@ -1,4 +1,4 @@
-### I'm Willem 😉
+### I'm Willem 😁
 
 - 👨‍💻 Working with Kotlin in the back-end
 - 🧠 Goal: AI Engineer
