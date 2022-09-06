@@ -1,6 +1,5 @@
 ### I'm Willem 😁
 
-- 👨‍💻 Working with Kotlin in the back-end
 - 🧠 Goal: AI Engineer
 - 🎮 My hobbies are running and Wim Hof method
 
