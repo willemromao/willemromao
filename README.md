@@ -1,7 +1,6 @@
 ### I'm Willem 😁
 
 - 🧠 Goal: AI Engineer
-- 🎮 My hobbies are running and Wim Hof method
 
 ##
   
