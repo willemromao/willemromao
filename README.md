@@ -1,6 +1,6 @@
 ### I'm Willem 😁
 
-- 🧠 Goal: AI Engineer
+- 🧠 Goal: Researcher PhD in ML and DL
 
 ##
   
