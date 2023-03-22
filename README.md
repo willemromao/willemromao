@@ -5,7 +5,8 @@
 ##
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willemromao&layout=compact&langs_count=7&theme=dark"/>
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willemromao&layout=compact)](https://github.com/willemromao/github-readme-stats)
 
 ### Hard Skills:
 
