@@ -1,6 +1,6 @@
 ### I'm Willem 😁
 
-- 🧠 Goals: PhD in Computer Science (ML Engineer)
+- 🎯 JavaScript: React.js and Node.js | Java: Spring, Hibernate and JSF
 
 ### Hard Skills:
 
