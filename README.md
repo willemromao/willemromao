@@ -1,6 +1,6 @@
 ### I'm Willem 😁
 
-- 🧠 Goal: Researcher PhD in ML and DL
+- 🧠 Goal: PhD in Computer Science and ML Engineer
 
 ### Hard Skills:
 
