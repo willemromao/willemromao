@@ -1,6 +1,6 @@
 ### I'm Willem 😁
 
-- 🎯 JavaScript: React.js and Node.js | Java: Spring, Hibernate and JSF
+- 🎯 Data Science | Data Engineering
 
 ### Hard Skills:
 
