@@ -10,10 +10,6 @@
   <img align="center" alt="Willem-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
 
 ##
-  
-  ![Snake animation](https://github.com/willemromao/willemromao/blob/output/github-contribution-grid-snake.svg)
-  
-##
  
 <div>
    <a href="https://www.linkedin.com/in/willemromao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
