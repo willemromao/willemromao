@@ -6,5 +6,7 @@
 
 <img align="right" alt="GIF" src="https://indoanalytica.com/static/images/data-science-2.gif" width="150" height="150" />
 
-### 🎯 Machine Learning | Data Science
-### 🔬 Undergraduate researcher in Artificial Intelligence 
+#
+
+- 🎯 Machine Learning | Data Science
+- 🔬 Undergraduate researcher in Artificial Intelligence 
