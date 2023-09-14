@@ -9,7 +9,7 @@
 
 <div style="display: inline_block">
 
-<img align="right" alt="GIF" src="https://indoanalytica.com/static/images/data-science-2.gif" width="430" height="430" />
+<img align="right" alt="GIF" src="https://indoanalytica.com/static/images/data-science-2.gif" width="400" height="400" />
 
 ### Hard Skills:
 
