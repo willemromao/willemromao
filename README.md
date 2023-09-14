@@ -1,8 +1,19 @@
-### I'm Willem 😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-- 🎯 Data Science | Data Engineering
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=I'm+Willem+Romão+😁;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willemromao&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Willem Romão github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscaer&layout=compact&hide_border=true&title_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div style="display: inline_block">
+
+<img align="right" alt="GIF" src="https://indoanalytica.com/static/images/data-science-2.gif" width="430" height="430" />
 
 ### Hard Skills:
+
+#### 🎯 Data Science | Data Engineering
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Willem-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
