@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"> 
 
-<img align="right" alt="GIF" src="https://indoanalytica.com/static/images/data-science-2.gif" width="250" height="250" />
+<img align="right" alt="GIF" src="https://indoanalytica.com/static/images/data-science-2.gif" width="200" height="200" />
 
 #
 
