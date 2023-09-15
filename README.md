@@ -8,5 +8,5 @@
 
 #
 
-### 🎯 Machine Learning | Data Science
-### 🔬 Undergraduate researcher in Artificial Intelligence 
+- **🎯 Machine Learning | Data Science**
+- **🔬 Undergraduate researcher in Artificial Intelligence**
