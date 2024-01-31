@@ -9,7 +9,7 @@
 #
 
 - **🎯 Machine Learning | Data Science**
-- **🔬 Undergraduate researcher in Artificial Intelligence**
+- **🔬 Undergraduate researcher in Machine Learning**
 
 #
 
