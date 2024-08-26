@@ -8,8 +8,8 @@
 
 #
 
-- **🎯 Machine Learning | Data Science**
-- **🔬 Undergraduate researcher in Machine Learning**
+- **🎯 Machine Learning | MLOps**
+- **🔬 Undergraduate researcher**
 
 #
 
