@@ -6,5 +6,5 @@
 
 #
 
-- **🎯 Machine Learning | MLOps**
-- **🔬 Undergraduate researcher**
+- **🤖 Machine Learning Engineer**
+- **🔬 AI researcher**
