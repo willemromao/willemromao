@@ -1,2 +1,1 @@
 - **🤖 AI Engineer**
-- **🔬 AI Researcher**
